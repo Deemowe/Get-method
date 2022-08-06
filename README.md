@@ -10,9 +10,13 @@ With PHP, you can connect to and manipulate databases, and MySQL is the most pop
 First of all, you must be install any XAMPP or WAMP or MAMP kind of software on your laptop or computer.
 With this software, you will get a local webserver i.e. Apache, PHP language, and MySQL database.
 
-For installation steps [Click here](https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/)
+* [installation steps](https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/)
+* [MYSQL example](https://www.raghwendra.com/blog/how-to-connect-html-to-database-with-mysql-using-php-example/)
 
-# Get vs Post method
+# Get vs Post methods
+There are two methods to collect and send information to the MYSQL database. In this code, we use the **Get method** when collecting information.
+
+The difference between the Get and Post methods:
 Get| Post | 
 --- | --- |
 Data is collected by the predefined $_GET variable for processing|Data is collected by the predefined $_POST variable
