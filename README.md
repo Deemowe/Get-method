@@ -59,6 +59,10 @@ If you face the same problem, you can use this function in your PHP page with th
 header("Location:indix.php");
 ```
 
+## Preview 
+Watch the video:
+[![Watch the video](https://img.youtube.com/vi/i2pNg-3Swiw/maxresdefault.jpg)](https://youtu.be/i2pNg-3Swiw)
+
 
 
 
