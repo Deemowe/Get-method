@@ -27,7 +27,7 @@ GET is less secure than POST because sent data is part of the URL| POST is a lit
 # Details
 * Google font 
 
-You can use different fonts with goolge and link them in the **head** tag, and use the name of each font in the css file
+You can use different fonts with goolge and link them in the **head** tag, and use the name of each font in the css file.
 
   <details>
  <summary>HTML</summary> 
