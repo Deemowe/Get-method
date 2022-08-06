@@ -58,7 +58,9 @@ body{
 # Problem & Solution
  There is a small problem I have in the project. When I press submit buttun, the browser sends me to the server -PHP- page that contains the sql codes and I want it to be on the page that contains the HTML codes!
  
-If you face the same problem, you can use this function in your PHP page with the sql codes and use the name of your main page (i.e.indix).
+If you face the same problem, you can use this function in your PHP page with the sql codes and use the name of your main page (i.e. indix).
+
+[![Watch the video](https://youtu.be/htLrSDadppQ)
 
 ```php
 header("Location:indix.php");
@@ -67,9 +69,3 @@ header("Location:indix.php");
 ## Preview 
 Watch the video:
 [![Watch the video](https://img.youtube.com/vi/i2pNg-3Swiw/maxresdefault.jpg)](https://youtu.be/i2pNg-3Swiw)
-
-
-
-
-
-
