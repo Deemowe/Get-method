@@ -10,7 +10,7 @@ With PHP, you can connect to and manipulate databases, and MySQL is the most pop
 First of all, you must be install any XAMPP or WAMP or MAMP kind of software on your laptop or computer.
 With this software, you will get a local webserver i.e. Apache, PHP language, and MySQL database.
 
-For installation steps [Click here](https://www.raghwendra.com/blog/how-to-connect-html-to-database-with-mysql-using-php-example/)
+For installation steps [Click here](https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/)
 
 # Get vs Post method
 Get| Post | 
