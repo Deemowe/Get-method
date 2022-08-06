@@ -56,7 +56,7 @@ body{
    ```
 
 # Problem & Solution
- There is a small problem I have in the project. When I press submit buttun, the browser sends me to the server -PHP- page that contains the sql codes and I want it to be on the page that contains the HTML codes!
+ There is a small problem I have in the project. When I press submit button, the browser sends me to the server -PHP- page that contains the sql codes and I want it to be on the page that contains the HTML codes!
  
 If you face the same problem, you can use this function in your PHP page with the sql codes and use the name of your main page (i.e. indix).
 
