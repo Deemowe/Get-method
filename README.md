@@ -1,7 +1,6 @@
 
 # PHP MySQL Database
-With PHP, you can connect to and manipulate databases.
-MySQL is the most popular database system used with PHP.
+With PHP, you can connect to and manipulate databases, and MySQL is the most popular database system used with PHP.
 
 # What is MySQL?
 * MySQL is a database system used on the web
@@ -17,24 +16,29 @@ For installation steps [Click here](https://www.raghwendra.com/blog/how-to-conne
 Get| Post | 
 --- | --- |
 Data is collected by the predefined $_GET variable for processing|Data is collected by the predefined $_POST variable
-We can not send large amount of data |Large amount of data can be sent 
-GET method request can be saved as bookmark in browser|POST method request can not be saved as bookmark in browser
-GET is less secure than POST because sent data is part of the URL| POST is a little safer than GET because the parameters are stored neither in the browser history nor in the web server logs
+We can not send large amount of data |Large amount of data can be sent |
+GET method request can be saved as bookmark in browser|POST method request can not be saved as bookmark in browser|
+GET is less secure than POST because sent data is part of the URL| POST is a little safer than GET because the parameters are stored neither in the browser history nor in the web server logs|
 
 # Details
-1. Google font 
+* Google font 
 
-you can use different font fimily using goolge and link them in **head** tag, and use specific font name in css file
+You can use different fonts with goolge and link them in the **head** tag, and use the name of each font in the css file
 
-  * HTML 
+  <details>
+ <summary>HTML</summary> 
+ </details>
+  
 ```html
  <link rel="preconnect" href="https://fonts.googleapis.com">
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
    ```
 
-
-* CSS
+<details>
+ <summary>CSS</summary>
+ </details>
+ 
 ```css
 body{
   background-image: url(images/background.png);
@@ -48,8 +52,8 @@ body{
    ```
 
 # Problem & Solution
-there is a little problem i face in the project, when i press submit buttun the browser send me to server -PHP- page that contains the sql codes,and i want it to be in the page that contains html codes!
-if you face the same problem you can use this function in your php page of sql codes,and use the name of your main (i.e.indix) page.
+ There is a small problem I have in the project. When I press submit buttun, the browser sends me to the server -PHP- page that contains the sql codes and I want it to be on the page that contains the HTML codes!
+If you face the same problem, you can use this function in your PHP page with the sql codes and use the name of your main page (i.e.indix).
 
 ```php
 header("Location:indix.php");
