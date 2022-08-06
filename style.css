@@ -1,0 +1,10 @@
+body{
+  background-image: url(images/background.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position:left;
+   background-size:contain;
+   font-family: 'Quantico', sans-serif;
+   }
+ 
+ 
